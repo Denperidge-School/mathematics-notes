@@ -4,12 +4,11 @@ In de les wordt er af en toe gezegd van een vraag/gegeven dat het op het examen 
 
 
 
-![examenvraag-0](examenvraag-0.png)
-(- C)
 
-![examenvraag-1](examenvraag-1.png)
-(- S)
+![examenvraag-0.png, -0](examenvraag-0.png)
 
-![examenvraag-2](examenvraag-2.png)
-(- S)
+
+![examenvraag-1.png, -1](examenvraag-1.png)
+
+![examenvraag-2.png, -M](examenvraag-2.png)
 
