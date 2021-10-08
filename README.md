@@ -4,14 +4,14 @@
 
 Writing stuff like
 
-![readme-mathematics-example](img/readme-mathematics-example-16336754069821.svg)
+![readme-mathematics-example](img/readme-mathematics-example.svg)
 
 in pure text would be a pain. Luckily, we can leverage the power of **Canvas**!
 When commenting in certain parts of Canvas, you have a built-in maths pane, which - when you type `y1-y2/x2-x1` it converts it to the thing above!
 
 ![readme-canvas-comment](img/readme-canvas-comment.png)
 
-![readme-canvas-math](README.assets/readme-canvas-math.png)
+![readme-canvas-math](img/readme-canvas-math.png)
 
 ### How to backup these notes
 
@@ -23,7 +23,7 @@ Oh, and replace `src="/equation_images` with `src="https://canvas.kdg.be/equatio
 
 
 
-### Protips for the Canvas math editor
+### "Advanced" tips for the Canvas math editor
 
 - You can use * and / on your keyboard, and it'll auto convert
 - It uses Latex, so typing `\Delta` and `\sqrt` will allow you to circumvent having to use buttons
