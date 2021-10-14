@@ -8,6 +8,7 @@ Notes for the final:
 - 4 numbers after the comma`,` or you're going to math jail
 - We can use [the formularium](https://canvas.kdg.be/courses/29944/files/2211721?module_item_id=504258) during the entire thing
 - Also there was an attempt to collect the things the teacher said about possible questions on the final so like check that out [here](examenvragen/)
+- Try to go for a minimum of 4 steps when calculating/mathening
 
 General notes:
 
