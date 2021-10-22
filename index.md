@@ -11,7 +11,7 @@ Notes for the final:
 - Try to go for a minimum of 4 steps when calculating/mathening (otherwise it can be a 0)
 - Use table in canvas for tekenverloop
 - Learn how to work with the browsers calculator (Canvas' I assume?)
-- Controle (zoals in [extra les 5](extra-les-5)) kan gevraagd worden
+- Controle (zoals in [extra les 5](les-5-extra)) kan gevraagd worden
 
 General notes:
 
