@@ -10,6 +10,7 @@ Notes for the final:
 - Also there was an attempt to collect the things the teacher said about possible questions on the final so like check that out [here](examenvragen/)
 - Try to go for a minimum of 4 steps when calculating/mathening
 - Use table in canvas for tekenverloop
+- Learn how to work with the browsers calculator (Canvas' I assume?)
 
 General notes:
 
