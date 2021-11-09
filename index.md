@@ -10,7 +10,7 @@ Notes for the final:
 - Also there was an attempt to collect the things the teacher said about possible questions on the final so like check that out [here](examenvragen/)
 - Try to go for a minimum of 4 steps when calculating/mathening (otherwise it can be a 0)
 - Use table in canvas for tekenverloop
-- Learn how to work with the browsers calculator (Canvas' I assume?)
+- Learn how to work with Lockdown browsers' calculator
 - Controle (zoals in [extra les 5](les-5-extra)) kan gevraagd worden
 - The final will be taken in school, on laptops. This will only change if the government decides against it.
 - Bringing an extension cable and charging your laptop beforehand is recommended
