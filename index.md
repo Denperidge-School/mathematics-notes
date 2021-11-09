@@ -12,6 +12,16 @@ Notes for the final:
 - Use table in canvas for tekenverloop
 - Learn how to work with the browsers calculator (Canvas' I assume?)
 - Controle (zoals in [extra les 5](les-5-extra)) kan gevraagd worden
+- The final will be taken in school, on laptops. This will only change if the government decides against it.
+- Bringing an extension cable and charging your laptop beforehand is recommended
+- Some formulas can be typed down regularly, but with breuken and the like, use the formula editor
+- 7-8 exercises over 3 hours. People good at maths can be done in 1, slightly good can be done around 2.
+- Take the following with you:
+    - Writing equipment (pen or pencil)
+    - 'Gradenboog' (mainly for the next final in january) if a graph has to be drawn (if this is gonna be the case, that'll be on a seperate paper that *will* be graded)
+- You get *kladpapier* (nice English, me) from the school, you're not allowed to bring your own. You have to hand them in afterwards, but you won't be graded on them.
+- There are "theoretically" 49 different versions of the final
+- The final isn't compartmentalized per chapter
 
 General notes:
 
@@ -30,4 +40,5 @@ My notes from class:
 - [Extra Les 4 (no notes)](https://www.youtube.com/watch?v=-Kljmrtp9L8)
 - [Les 5](les-5)
 - [Extra Les 5](les-5-extra)
+- [Les 5 II: Attack Of The Clones]()
 
