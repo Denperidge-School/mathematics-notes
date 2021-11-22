@@ -2,6 +2,8 @@
 
 (I don't wanna fail again)
 
+## Final info
+
 Notes for the final:
 
 - Write down <u>all</u> your steps, just the solution tends to not be enough
@@ -31,6 +33,9 @@ General notes:
 ---
 
 My notes from class:
+
+## First period
+
 - [Extra Les 1](les-1-extra)
 - [Les 2](les-2)
 - [Extra Les 2](les-2-extra)
@@ -41,4 +46,8 @@ My notes from class:
 - [Les 5](les-5)
 - [Extra Les 5](les-5-extra)
 - [Les 5 II: Attack Of The Clones]()
+
+---
+
+## Second period
 
