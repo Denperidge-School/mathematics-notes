@@ -103,4 +103,29 @@
 <p><img class="equation_image" title="b_T=60-l_T=60-28,596=31,40m" src="https://canvas.kdg.be/equation_images/b_T%253D60-l_T%253D60-28%252C596%253D31%252C40m" alt="LaTeX: b_T=60-l_T=60-28,596=31,40m" data-equation-content="b_T=60-l_T=60-28,596=31,40m" /></p>
 <p><img class="equation_image" title="A_{\max}=\frac{-D}{2a}=857,89m&sup2;" src="https://canvas.kdg.be/equation_images/A_%257B%255Cmax%257D%253D%255Cfrac%257B-D%257D%257B2a%257D%253D857%252C89m%25C2%25B2" alt="LaTeX: A_{\max}=\frac{-D}{2a}=857,89m&sup2;" data-equation-content="A_{\max}=\frac{-D}{2a}=857,89m&sup2;" /></p>
 <p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>Fouten gemaakt door anderen:</p>
+<p><img class="equation_image" title="12x+2y\:=\:12" src="https://canvas.kdg.be/equation_images/12x%252B2y%255C%253A%253D%255C%253A12" alt="LaTeX: 12x+2y\:=\:12" data-equation-content="12x+2y\:=\:12" /></p>
+<p>x2 <img class="equation_image" title="24x+4y=12" src="https://canvas.kdg.be/equation_images/24x%252B4y%253D12" alt="LaTeX: 24x+4y=12" data-equation-content="24x+4y=12" /> INCORRECT</p>
+<p>-----</p>
+<p><img class="equation_image" title="-\frac{3+4x}{7}\ne\frac{-3+4x}{7}" src="https://canvas.kdg.be/equation_images/-%255Cfrac%257B3%252B4x%257D%257B7%257D%255Cne%255Cfrac%257B-3%252B4x%257D%257B7%257D" alt="LaTeX: -\frac{3+4x}{7}\ne\frac{-3+4x}{7}" data-equation-content="-\frac{3+4x}{7}\ne\frac{-3+4x}{7}" /> WRONG</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img class="equation_image" title="\frac{-3-4x}{7}" src="https://canvas.kdg.be/equation_images/%255Cfrac%257B-3-4x%257D%257B7%257D" alt="LaTeX: \frac{-3-4x}{7}" data-equation-content="\frac{-3-4x}{7}" /> NOT WRONG</p>
+<p>-----</p>
+<p><img class="equation_image" title="y=\frac{4x-16}{3}+\frac{2x-8}{16}" src="https://canvas.kdg.be/equation_images/y%253D%255Cfrac%257B4x-16%257D%257B3%257D%252B%255Cfrac%257B2x-8%257D%257B16%257D" alt="LaTeX: y=\frac{4x-16}{3}+\frac{2x-8}{16}" data-equation-content="y=\frac{4x-16}{3}+\frac{2x-8}{16}" /></p>
+<p><img class="equation_image" title="=\frac{128x-512}{96}+\frac{12x-48}{96}" src="https://canvas.kdg.be/equation_images/%253D%255Cfrac%257B128x-512%257D%257B96%257D%252B%255Cfrac%257B12x-48%257D%257B96%257D" alt="LaTeX: =\frac{128x-512}{96}+\frac{12x-48}{96}" data-equation-content="=\frac{128x-512}{96}+\frac{12x-48}{96}" /></p>
+<p><img class="equation_image" title="=128x-512+12x-48" src="https://canvas.kdg.be/equation_images/%253D128x-512%252B12x-48" alt="LaTeX: =128x-512+12x-48" data-equation-content="=128x-512+12x-48" /> NOPE</p>
+<p>-----</p>
+<p><img class="equation_image" title="-3\left(6x-4\right)=-18-12y" src="https://canvas.kdg.be/equation_images/-3%255Cleft(6x-4%255Cright)%253D-18-12y" alt="LaTeX: -3\left(6x-4\right)=-18-12y" data-equation-content="-3\left(6x-4\right)=-18-12y" /> IDK BIJ WAT DIT HOORT MAAR HET WAS DOORSTREEPT</p>
+<p>-----</p>
+<p><img class="equation_image" title="-4y=15-6\left(\frac{12-2y}{12}\right)" src="https://canvas.kdg.be/equation_images/-4y%253D15-6%255Cleft(%255Cfrac%257B12-2y%257D%257B12%257D%255Cright)" alt="LaTeX: -4y=15-6\left(\frac{12-2y}{12}\right)" data-equation-content="-4y=15-6\left(\frac{12-2y}{12}\right)" /></p>
+<p><img class="equation_image" title="-4y+2y=16-\frac{72}{6}" src="https://canvas.kdg.be/equation_images/-4y%252B2y%253D16-%255Cfrac%257B72%257D%257B6%257D" alt="LaTeX: -4y+2y=16-\frac{72}{6}" data-equation-content="-4y+2y=16-\frac{72}{6}" /> DOORSTREEPT SO ITS WRONG PRESUMABLY</p>
+<p>-----</p>
+<p><img class="equation_image" title="4\cdot\left(\frac{21}{2}-\frac{7y}{2}\right)=\frac{84}{8}-\frac{28}{8}y" src="https://canvas.kdg.be/equation_images/4%255Ccdot%255Cleft(%255Cfrac%257B21%257D%257B2%257D-%255Cfrac%257B7y%257D%257B2%257D%255Cright)%253D%255Cfrac%257B84%257D%257B8%257D-%255Cfrac%257B28%257D%257B8%257Dy" alt="LaTeX: 4\cdot\left(\frac{21}{2}-\frac{7y}{2}\right)=\frac{84}{8}-\frac{28}{8}y" data-equation-content="4\cdot\left(\frac{21}{2}-\frac{7y}{2}\right)=\frac{84}{8}-\frac{28}{8}y" /></p>
+<p><img class="equation_image" title="=\frac{84}{8}-\frac{28}{8}y" src="https://canvas.kdg.be/equation_images/%253D%255Cfrac%257B84%257D%257B8%257D-%255Cfrac%257B28%257D%257B8%257Dy" alt="LaTeX: =\frac{84}{8}-\frac{28}{8}y" data-equation-content="=\frac{84}{8}-\frac{28}{8}y" /> -&gt; Nop</p>
+<p>-----</p>
+<p>Breuk met kommagetal is wacky, maak er dan gewoon een kommagetal van</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
