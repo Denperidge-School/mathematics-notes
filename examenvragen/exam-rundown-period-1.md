@@ -7,6 +7,8 @@
 <p>uitrekken met factor 4</p>
 <p><img class="equation_image" title="y'''=5\cdot\sin\left(\frac{\pi}{2}\left(\frac{x}{4}+1\right)\right)-5=5\cdot\sin\left(\frac{\pi\cdot x}{8}+\frac{\pi}{2}\right)-5" src="https://canvas.kdg.be/equation_images/y'''%253D5%255Ccdot%255Csin%255Cleft(%255Cfrac%257B%255Cpi%257D%257B2%257D%255Cleft(%255Cfrac%257Bx%257D%257B4%257D%252B1%255Cright)%255Cright)-5%253D5%255Ccdot%255Csin%255Cleft(%255Cfrac%257B%255Cpi%255Ccdot%2520x%257D%257B8%257D%252B%255Cfrac%257B%255Cpi%257D%257B2%257D%255Cright)-5" alt="LaTeX: y'''=5\cdot\sin\left(\frac{\pi}{2}\left(\frac{x}{4}+1\right)\right)-5=5\cdot\sin\left(\frac{\pi\cdot x}{8}+\frac{\pi}{2}\right)-5" data-equation-content="y'''=5\cdot\sin\left(\frac{\pi}{2}\left(\frac{x}{4}+1\right)\right)-5=5\cdot\sin\left(\frac{\pi\cdot x}{8}+\frac{\pi}{2}\right)-5" /></p>
 <p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
 <p>(2)</p>
 <p>Luke Aikins</p>
 <p>k = a . v&sup2;<br />k -&gt; gewicht<br />a -&gt; evenredigheidsfactor<br />v -&gt; valsnelheid</p>
@@ -15,18 +17,19 @@
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
+<p>(3)</p>
 <p><img class="equation_image" title="\frac{75}{194&sup2;}=\frac{90}{v&sup2;}" src="https://canvas.kdg.be/equation_images/%255Cfrac%257B75%257D%257B194%25C2%25B2%257D%253D%255Cfrac%257B90%257D%257Bv%25C2%25B2%257D" alt="LaTeX: \frac{75}{194&sup2;}=\frac{90}{v&sup2;}" data-equation-content="\frac{75}{194&sup2;}=\frac{90}{v&sup2;}" /> (een andere persoon van 90 kg)</p>
 <p><img class="equation_image" title="\frac{v_2\cdot75}{194&sup2;}=90" src="https://canvas.kdg.be/equation_images/%255Cfrac%257Bv_2%255Ccdot75%257D%257B194%25C2%25B2%257D%253D90" alt="LaTeX: \frac{v_2\cdot75}{194&sup2;}=90" data-equation-content="\frac{v_2\cdot75}{194&sup2;}=90" /></p>
 <p><img class="equation_image" title="v_2&sup2;=\frac{90\cdot194&sup2;}{75}" src="https://canvas.kdg.be/equation_images/v_2%25C2%25B2%253D%255Cfrac%257B90%255Ccdot194%25C2%25B2%257D%257B75%257D" alt="LaTeX: v_2&sup2;=\frac{90\cdot194&sup2;}{75}" data-equation-content="v_2&sup2;=\frac{90\cdot194&sup2;}{75}" /></p>
 <p><img class="equation_image" title="v_2=\sqrt{\frac{90\cdot194&sup2;}{75}}" src="https://canvas.kdg.be/equation_images/v_2%253D%255Csqrt%257B%255Cfrac%257B90%255Ccdot194%25C2%25B2%257D%257B75%257D%257D" alt="LaTeX: v_2=\sqrt{\frac{90\cdot194&sup2;}{75}}" data-equation-content="v_2=\sqrt{\frac{90\cdot194&sup2;}{75}}" /></p>
 <p><img class="equation_image" title="v_2=212,52\:km/h" src="https://canvas.kdg.be/equation_images/v_2%253D212%252C52%255C%253Akm%252Fh" alt="LaTeX: v_2=212,52\:km/h" data-equation-content="v_2=212,52\:km/h" /></p>
 <p>&nbsp;</p>
-<p>(2) maar W R O N G</p>
+<p>(3) maar W R O N G</p>
 <p><img class="equation_image" title="75\:\longrightarrow\:194" src="https://canvas.kdg.be/equation_images/75%255C%253A%255Clongrightarrow%255C%253A194" alt="LaTeX: 75\:\longrightarrow\:194" data-equation-content="75\:\longrightarrow\:194" /><br /><img class="equation_image" title="1\:\longrightarrow\:\frac{194}{75}" src="https://canvas.kdg.be/equation_images/1%255C%253A%255Clongrightarrow%255C%253A%255Cfrac%257B194%257D%257B75%257D" alt="LaTeX: 1\:\longrightarrow\:\frac{194}{75}" data-equation-content="1\:\longrightarrow\:\frac{194}{75}" /><br /><img class="equation_image" title="90\:\longrightarrow\:\frac{194\cdot90}{75}=232,8" src="https://canvas.kdg.be/equation_images/90%255C%253A%255Clongrightarrow%255C%253A%255Cfrac%257B194%255Ccdot90%257D%257B75%257D%253D232%252C8" alt="LaTeX: 90\:\longrightarrow\:\frac{194\cdot90}{75}=232,8" data-equation-content="90\:\longrightarrow\:\frac{194\cdot90}{75}=232,8" /><br />DING DONG WRONG BONG</p>
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
-<p>(3)</p>
+<p>(4)</p>
 <p>(1) { 2x+7y = 21<br />(2) { 4x-6y = 15</p>
 <p>Substitutie</p>
 <p>(1) --&gt; 7y = 21 -2x<br /><img class="equation_image" title="y=\frac{21-2x}{7}\:inbrengen\:in\:\left(2\right)" src="https://canvas.kdg.be/equation_images/y%253D%255Cfrac%257B21-2x%257D%257B7%257D%255C%253Ainbrengen%255C%253Ain%255C%253A%255Cleft(2%255Cright)" alt="LaTeX: y=\frac{21-2x}{7}\:inbrengen\:in\:\left(2\right)" data-equation-content="y=\frac{21-2x}{7}\:inbrengen\:in\:\left(2\right)" /></p>
@@ -45,8 +48,10 @@
 <p><strong>Andere methode: combinatie!</strong></p>
 <p>&nbsp;{ 2x + 7y = 21&nbsp;&nbsp; | * (-2)<br />&nbsp;{ 4x - 6y = 15&nbsp;&nbsp;&nbsp; | * 1<br />+_______________</p>
 <p>4x+(-2)*2x-6y+(-2)*7y = (-2)*21+15<br />4x-4x-6y-14y = -42 + 15<br /><img class="equation_image" title="-20y=-27\:\Longrightarrow\:y=\frac{-27}{-20}=\frac{27}{20}=1,35" src="https://canvas.kdg.be/equation_images/-20y%253D-27%255C%253A%255CLongrightarrow%255C%253Ay%253D%255Cfrac%257B-27%257D%257B-20%257D%253D%255Cfrac%257B27%257D%257B20%257D%253D1%252C35" alt="LaTeX: -20y=-27\:\Longrightarrow\:y=\frac{-27}{-20}=\frac{27}{20}=1,35" data-equation-content="-20y=-27\:\Longrightarrow\:y=\frac{-27}{-20}=\frac{27}{20}=1,35" /></p>
+<p>&nbsp;</p>
 <hr />
-<p>(4) Op 1 september is de prijs v.e. liter benzine met 25 &euro;cent gedaald</p>
+<p>&nbsp;</p>
+<p>(5) Op 1 september is de prijs v.e. liter benzine met 25 &euro;cent gedaald</p>
 <p>b. Prijs per liter in <span style="text-decoration: underline;">augustus</span></p>
 <p>a. vgl?</p>
 <p>Je tankte op 10 sept 52l benzine voor 80&euro;</p>
@@ -59,7 +64,7 @@
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
-<p>(5)</p>
+<p>(6)</p>
 <p><img class="equation_image" title="y=\frac{16-4x}{3}+\frac{8-2x}{16}" src="https://canvas.kdg.be/equation_images/y%253D%255Cfrac%257B16-4x%257D%257B3%257D%252B%255Cfrac%257B8-2x%257D%257B16%257D" alt="LaTeX: y=\frac{16-4x}{3}+\frac{8-2x}{16}" data-equation-content="y=\frac{16-4x}{3}+\frac{8-2x}{16}" /></p>
 <p><img class="equation_image" title="y=\frac{16}{3}-\frac{4}{3}x+\frac{8}{16}-\frac{2}{16}x" src="https://canvas.kdg.be/equation_images/y%253D%255Cfrac%257B16%257D%257B3%257D-%255Cfrac%257B4%257D%257B3%257Dx%252B%255Cfrac%257B8%257D%257B16%257D-%255Cfrac%257B2%257D%257B16%257Dx" alt="LaTeX: y=\frac{16}{3}-\frac{4}{3}x+\frac{8}{16}-\frac{2}{16}x" data-equation-content="y=\frac{16}{3}-\frac{4}{3}x+\frac{8}{16}-\frac{2}{16}x" /></p>
 <p><img class="equation_image" title="y=\left(-\frac{4}{3}-\frac{2}{16}\right)x+\left(\frac{16}{3}+\frac{8}{16}\right)" src="https://canvas.kdg.be/equation_images/y%253D%255Cleft(-%255Cfrac%257B4%257D%257B3%257D-%255Cfrac%257B2%257D%257B16%257D%255Cright)x%252B%255Cleft(%255Cfrac%257B16%257D%257B3%257D%252B%255Cfrac%257B8%257D%257B16%257D%255Cright)" alt="LaTeX: y=\left(-\frac{4}{3}-\frac{2}{16}\right)x+\left(\frac{16}{3}+\frac{8}{16}\right)" data-equation-content="y=\left(-\frac{4}{3}-\frac{2}{16}\right)x+\left(\frac{16}{3}+\frac{8}{16}\right)" /></p>
@@ -69,5 +74,33 @@
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
-<p>(6)</p>
+<p>(7) Bepaal de productvorm</p>
+<p>f: <img class="equation_image" title="x\:\longrightarrow\:-4x&sup2;-4x-1" src="https://canvas.kdg.be/equation_images/x%255C%253A%255Clongrightarrow%255C%253A-4x%25C2%25B2-4x-1" alt="LaTeX: x\:\longrightarrow\:-4x&sup2;-4x-1" data-equation-content="x\:\longrightarrow\:-4x&sup2;-4x-1" /></p>
+<p><img class="equation_image" title="y=-4x&sup2;-4x-1" src="https://canvas.kdg.be/equation_images/y%253D-4x%25C2%25B2-4x-1" alt="LaTeX: y=-4x&sup2;-4x-1" data-equation-content="y=-4x&sup2;-4x-1" /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ___&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c</p>
+<p>discriminant D : b&sup2;-4ac = (-4)&sup2;-4*(-4)*(-1)<br />&nbsp;&nbsp;&nbsp; = 16 - 16 = 0</p>
+<p><img class="equation_image" title="x_{1,2}=\frac{-b\pm\sqrt{D}}{2a}" src="https://canvas.kdg.be/equation_images/x_%257B1%252C2%257D%253D%255Cfrac%257B-b%255Cpm%255Csqrt%257BD%257D%257D%257B2a%257D" alt="LaTeX: x_{1,2}=\frac{-b\pm\sqrt{D}}{2a}" data-equation-content="x_{1,2}=\frac{-b\pm\sqrt{D}}{2a}" /> &nbsp; &nbsp;<img class="equation_image" title="x_1=\frac{-b+\sqrt{D}}{2a}" src="https://canvas.kdg.be/equation_images/x_1%253D%255Cfrac%257B-b%252B%255Csqrt%257BD%257D%257D%257B2a%257D" alt="LaTeX: x_1=\frac{-b+\sqrt{D}}{2a}" data-equation-content="x_1=\frac{-b+\sqrt{D}}{2a}" /> &nbsp; &nbsp;<img class="equation_image" title="x_2=\frac{-b-\sqrt{D}}{2a}" src="https://canvas.kdg.be/equation_images/x_2%253D%255Cfrac%257B-b-%255Csqrt%257BD%257D%257D%257B2a%257D" alt="LaTeX: x_2=\frac{-b-\sqrt{D}}{2a}" data-equation-content="x_2=\frac{-b-\sqrt{D}}{2a}" /></p>
+<p><img class="equation_image" title="x_1=\frac{-\left(-4\right)+\sqrt{0}}{2\cdot\left(-4\right)}=\frac{4+0}{-8}=-\frac{1}{2}" src="https://canvas.kdg.be/equation_images/x_1%253D%255Cfrac%257B-%255Cleft(-4%255Cright)%252B%255Csqrt%257B0%257D%257D%257B2%255Ccdot%255Cleft(-4%255Cright)%257D%253D%255Cfrac%257B4%252B0%257D%257B-8%257D%253D-%255Cfrac%257B1%257D%257B2%257D" alt="LaTeX: x_1=\frac{-\left(-4\right)+\sqrt{0}}{2\cdot\left(-4\right)}=\frac{4+0}{-8}=-\frac{1}{2}" data-equation-content="x_1=\frac{-\left(-4\right)+\sqrt{0}}{2\cdot\left(-4\right)}=\frac{4+0}{-8}=-\frac{1}{2}" /></p>
+<p><img class="equation_image" title="x_2=\frac{.-\left(-4\right)-\sqrt{0}}{2\cdot\left(-4\right)}=\frac{4-0}{-8}=-\frac{1}{2}" src="https://canvas.kdg.be/equation_images/x_2%253D%255Cfrac%257B.-%255Cleft(-4%255Cright)-%255Csqrt%257B0%257D%257D%257B2%255Ccdot%255Cleft(-4%255Cright)%257D%253D%255Cfrac%257B4-0%257D%257B-8%257D%253D-%255Cfrac%257B1%257D%257B2%257D" alt="LaTeX: x_2=\frac{.-\left(-4\right)-\sqrt{0}}{2\cdot\left(-4\right)}=\frac{4-0}{-8}=-\frac{1}{2}" data-equation-content="x_2=\frac{.-\left(-4\right)-\sqrt{0}}{2\cdot\left(-4\right)}=\frac{4-0}{-8}=-\frac{1}{2}" /></p>
+<p><img class="equation_image" title="productvorm\:a\left(x-x_1\right)\left(x-x_2\right)" src="https://canvas.kdg.be/equation_images/productvorm%255C%253Aa%255Cleft(x-x_1%255Cright)%255Cleft(x-x_2%255Cright)" alt="LaTeX: productvorm\:a\left(x-x_1\right)\left(x-x_2\right)" data-equation-content="productvorm\:a\left(x-x_1\right)\left(x-x_2\right)" /></p>
+<p><img class="equation_image" title="\Longrightarrow\:-4\cdot\left(x+\frac{1}{2}\right)\left(x+\frac{1}{2}\right)" src="https://canvas.kdg.be/equation_images/%255CLongrightarrow%255C%253A-4%255Ccdot%255Cleft(x%252B%255Cfrac%257B1%257D%257B2%257D%255Cright)%255Cleft(x%252B%255Cfrac%257B1%257D%257B2%257D%255Cright)" alt="LaTeX: \Longrightarrow\:-4\cdot\left(x+\frac{1}{2}\right)\left(x+\frac{1}{2}\right)" data-equation-content="\Longrightarrow\:-4\cdot\left(x+\frac{1}{2}\right)\left(x+\frac{1}{2}\right)" /></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; <img class="equation_image" title="-4\cdot\left(x+\frac{1}{2}\right)&sup2;" src="https://canvas.kdg.be/equation_images/-4%255Ccdot%255Cleft(x%252B%255Cfrac%257B1%257D%257B2%257D%255Cright)%25C2%25B2" alt="LaTeX: -4\cdot\left(x+\frac{1}{2}\right)&sup2;" data-equation-content="-4\cdot\left(x+\frac{1}{2}\right)&sup2;" /></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>(8)</p>
+<p><img src="../img/exam-rundown-period-1-oef-8-1.png" alt="Cat forgot to add the image" /></p>
+<p><img class="equation_image" title="r=\frac{1}{8}l" src="https://canvas.kdg.be/equation_images/r%253D%255Cfrac%257B1%257D%257B8%257Dl" alt="LaTeX: r=\frac{1}{8}l" data-equation-content="r=\frac{1}{8}l" /> &nbsp;&nbsp; omtrek rechthoek = R0</p>
+<p>A= opp [_] - opp O = <img class="equation_image" title="\pi r&sup2;=l\cdot b-\pi\left(\frac{1}{8}l\right)&sup2;" src="https://canvas.kdg.be/equation_images/%255Cpi%2520r%25C2%25B2%253Dl%255Ccdot%2520b-%255Cpi%255Cleft(%255Cfrac%257B1%257D%257B8%257Dl%255Cright)%25C2%25B2" alt="LaTeX: \pi r&sup2;=l\cdot b-\pi\left(\frac{1}{8}l\right)&sup2;" data-equation-content="\pi r&sup2;=l\cdot b-\pi\left(\frac{1}{8}l\right)&sup2;" /></p>
+<p>Omtrek cirkel = 2pi*r<br />Opp cirkel = pi*r&sup2; = (DOORSTREEPT:) pi*D&sup2;/4</p>
+<p>omtrek: 120 = 2*b+2*l</p>
+<p><img class="equation_image" title="\frac{120-2l}{2}=b" src="https://canvas.kdg.be/equation_images/%255Cfrac%257B120-2l%257D%257B2%257D%253Db" alt="LaTeX: \frac{120-2l}{2}=b" data-equation-content="\frac{120-2l}{2}=b" /></p>
+<p><img class="equation_image" title="b=60-\frac{2}{2}l=60-l" src="https://canvas.kdg.be/equation_images/b%253D60-%255Cfrac%257B2%257D%257B2%257Dl%253D60-l" alt="LaTeX: b=60-\frac{2}{2}l=60-l" data-equation-content="b=60-\frac{2}{2}l=60-l" /></p>
+<p><img class="equation_image" title="A=l\cdot\left(60-l\right)-\frac{\pi}{64}\cdot l&sup2;" src="https://canvas.kdg.be/equation_images/A%253Dl%255Ccdot%255Cleft(60-l%255Cright)-%255Cfrac%257B%255Cpi%257D%257B64%257D%255Ccdot%2520l%25C2%25B2" alt="LaTeX: A=l\cdot\left(60-l\right)-\frac{\pi}{64}\cdot l&sup2;" data-equation-content="A=l\cdot\left(60-l\right)-\frac{\pi}{64}\cdot l&sup2;" /></p>
+<p><img class="equation_image" title="=\:60\cdot l-l&sup2;-\frac{\pi}{64}\cdot l&sup2;\:=\:\left(-1-\frac{\pi}{64}\right)\cdot l&sup2;+60l" src="https://canvas.kdg.be/equation_images/%253D%255C%253A60%255Ccdot%2520l-l%25C2%25B2-%255Cfrac%257B%255Cpi%257D%257B64%257D%255Ccdot%2520l%25C2%25B2%255C%253A%253D%255C%253A%255Cleft(-1-%255Cfrac%257B%255Cpi%257D%257B64%257D%255Cright)%255Ccdot%2520l%25C2%25B2%252B60l" alt="LaTeX: =\:60\cdot l-l&sup2;-\frac{\pi}{64}\cdot l&sup2;\:=\:\left(-1-\frac{\pi}{64}\right)\cdot l&sup2;+60l" data-equation-content="=\:60\cdot l-l&sup2;-\frac{\pi}{64}\cdot l&sup2;\:=\:\left(-1-\frac{\pi}{64}\right)\cdot l&sup2;+60l" /></p>
+<p>max waarde:</p>
+<p><img src="../img/exam-rundown-period-1-oef-8-2.png" alt="Cat forgot to add the image" /></p>
+<p><img class="equation_image" title="l_t=\frac{-b}{2a}=\frac{-60}{2\cdot\left(-1-\frac{\pi}{64}\right)}=28,596m" src="https://canvas.kdg.be/equation_images/l_t%253D%255Cfrac%257B-b%257D%257B2a%257D%253D%255Cfrac%257B-60%257D%257B2%255Ccdot%255Cleft(-1-%255Cfrac%257B%255Cpi%257D%257B64%257D%255Cright)%257D%253D28%252C596m" alt="LaTeX: l_t=\frac{-b}{2a}=\frac{-60}{2\cdot\left(-1-\frac{\pi}{64}\right)}=28,596m" data-equation-content="l_t=\frac{-b}{2a}=\frac{-60}{2\cdot\left(-1-\frac{\pi}{64}\right)}=28,596m" /></p>
+<p><img class="equation_image" title="b_T=60-l_T=60-28,596=31,40m" src="https://canvas.kdg.be/equation_images/b_T%253D60-l_T%253D60-28%252C596%253D31%252C40m" alt="LaTeX: b_T=60-l_T=60-28,596=31,40m" data-equation-content="b_T=60-l_T=60-28,596=31,40m" /></p>
+<p><img class="equation_image" title="A_{\max}=\frac{-D}{2a}=857,89m&sup2;" src="https://canvas.kdg.be/equation_images/A_%257B%255Cmax%257D%253D%255Cfrac%257B-D%257D%257B2a%257D%253D857%252C89m%25C2%25B2" alt="LaTeX: A_{\max}=\frac{-D}{2a}=857,89m&sup2;" data-equation-content="A_{\max}=\frac{-D}{2a}=857,89m&sup2;" /></p>
+<p>&nbsp;</p>
 
