@@ -7,7 +7,7 @@
 Notes for the final:
 
 - Write down <u>all</u> your steps, just the solution tends to not be enough
-- 4 numbers after the comma`,` or you're going to math jail
+- 4 numbers after the comma`,` or you're going to math jail (sometimes 3 `beduidende cijfers`)
 - We can use [the formularium](https://canvas.kdg.be/courses/29944/files/2211721?module_item_id=504258) during the entire thing
 - Also there was an attempt to collect the things the teacher said about possible questions on the final so like check that out [here](examenvragen/)
 - Try to go for a minimum of 4 steps when calculating/mathening (otherwise it can be a 0)
@@ -47,11 +47,12 @@ My notes from class:
 - [Extra Les 4 (no notes)](https://www.youtube.com/watch?v=-Kljmrtp9L8)
 - [Les 5](les-5)
 - [Extra Les 5](les-5-extra)
-- [Les 5 II: Attack Of The Clones]()
+- [Les 5 II: Attack Of The Clones](les-5-2)
 
 ---
 
 ## Second period
 
 - [Les 6 (empty)](les-6)
-- [Extra les 6](les-6-extra) & [final rundown](examenvragen/exam-rundown-period-1)
+- [Extra les 6, which should just be the final rundown or I forgot to write tihngs down](examenvragen/exam-rundown-period-1)
+- [Les 7](les-7)
