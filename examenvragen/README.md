@@ -21,3 +21,8 @@ Deze formules kunnen gevraagd worden:
 
 ![examenvraag-2.png, -M](examenvraag-2.png)
 
+---
+
+Rundown of all the methods for getalstelsels (chapter 9):
+
+![Image failed to load and/or is missing](../img/les-9-overzicht-wat-we-moeten-kunnen.png)

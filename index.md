@@ -57,3 +57,6 @@ My notes from class:
 - [Extra les 6, which should just be the final rundown or I forgot to write tihngs down](examenvragen/exam-rundown-period-1)
 - [Les 7](les-7)
 - [Les 7 extra](les-7-extra)
+- Les 8 was during *bad time*, no notes for this one
+- [Les 9](les-9)
+
