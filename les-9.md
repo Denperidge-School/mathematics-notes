@@ -148,4 +148,4 @@ MISSING
 
 # Extra links
 
-https://learningcontent.cisco.com/games/binary/index.html
+[https://learningcontent.cisco.com/games/binary/index.html](https://learningcontent.cisco.com/games/binary/index.html)
