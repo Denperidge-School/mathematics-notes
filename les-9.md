@@ -1,12 +1,30 @@
-Overzicht van alle methodes/wat we moeten kunnen?
+Overzicht van alle methodes(/wat we moeten kunnen?)
 
 ![hoofdstuk-9-wat-we-moeten-kunnen](img/les-9-overzicht-wat-we-moeten-kunnen.png)
+
+
+
+---
+
+---
 
 # Bin -> Dec
 
 ## Bin -> Dec (via gewichten)
 
 MISSING
+
+
+
+
+
+
+
+
+
+
+
+---
 
 # Dec -> Bin
 ## Dec -> Bin (/2)
@@ -30,6 +48,16 @@ antwoord = (1000 0011 1000)<sub>2</sub>
 
 
 
+
+
+
+
+
+
+
+
+----
+
 # Bin -> Hex
 ## Bin -> Hex (tabel)
 
@@ -50,6 +78,16 @@ Ander voorbeeld:
 
 
 
+
+
+
+
+
+
+
+
+---
+
 # Hex -> Bin
 ## Hex -> Bin (tabel)
 
@@ -64,6 +102,16 @@ Voorbeeld:
 ![Image loading or missing!](img/les-9-voorbeeld-hex-bin.png)
 
 
+
+
+
+
+
+
+
+
+
+---
 
 # Dec -> Hex
 ## Dec -> Hex (via binair tabel)
@@ -84,6 +132,8 @@ Voorbeelden van leerkracht
 ![Image loading or missing!](img/les-9-voorbeeld-dec-hex-2.png)
 
 
+
+
 ## Dec -> Hex (via BIN, dus /2)
 
 Bekijk de deelbaarheid van het getal door 2
@@ -99,6 +149,16 @@ Repeat dan met het resultaat van de deling van 2 (met de ,5 ommitted indien die 
 
 
 
+
+
+
+
+
+
+
+
+----
+
 # Hex -> Dec
 
 ## Hex -> Dec (via gewichten)
@@ -110,6 +170,18 @@ MISSING
 ![Image loading or missing!](img/les-9-voorbeeld-hex-dec.png)
 
 
+
+
+
+
+
+
+
+
+
+---
+
+---
 
 # Extra links
 
