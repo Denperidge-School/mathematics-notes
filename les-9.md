@@ -18,25 +18,26 @@ MISSING
 <br><br><br><br><br>
 
 # Dec -> Bin
-## Dec -> Bin (/2)
+## Dec -> Bin (/2?)
 
 *Note: niet de methode van de leerkracht*
 
 ### Maak tabel met stappen van 2, groot genoeg om het cijfer te fitten (begin van 1)
 
-4096 | 2048 1024 512 256 | 128 64 32 16 8 4 2 1
+4096 | 2048 1024 512 256 | 128 64 32 | 16 8 4 2 1
 
 ### Ga van links naar rechts, doe min (-) waar mogelijk, zet een 1 indien dat het geval is
 bv decimaal nummer 2104
 
 4096 | 2048 1024 512 256 | 128 64 32 16 | 8 4 2 1
-   0    |    1       0      0    0    |   0    0   1   1 | 1 0 0 0
+   0    |    1       0      0     0    |  0    0   1   1 | 1 0 0 0
 
-2104-2048 = 56    --> 1 bij de 2048 bit, maar een 0 bij 1024
-56 - 32 = 24
-24 - 16 = 8
-8-8 = 0
-antwoord = (1000 0011 1000)<sub>2</sub>
+- 2104-2048 = 56    --> 1 bij de 2048 bit
+  - Je hebt nog 56 over. Blijf verdergaan met dit nieuwe getal (dus bij 1024 schrijf je 0) 
+- 56 - 32 = 24
+- 24 - 16 = 8
+- 8-8 = 0
+- antwoord = (1000 0011 1000)<sub>2</sub>
 
 ---
 
