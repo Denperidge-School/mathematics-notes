@@ -37,8 +37,9 @@ MISSING
 
 ### Ga van links naar rechts, doe min (-) waar mogelijk, zet een 1 indien dat het geval is
 bv decimaal nummer 2104
+
 4096 | 2048 1024 512 256 | 128 64 32 16 8 4 2 1
- 0           1      0       0    0         0   0  1  1 1 0 0 0
+ 0      |    1      0       0    0    |     0   0  1  1 1 0 0 0
 
 2104-2048 = 56    --> 1 bij de 2048 bit, maar een 0 bij 1024
 56 - 32 = 24
