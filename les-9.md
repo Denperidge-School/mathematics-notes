@@ -14,17 +14,8 @@ Overzicht van alle methodes(/wat we moeten kunnen?)
 
 MISSING
 
-
-
-
-
-
-
-
-
-
-
 ---
+<br><br><br><br><br>
 
 # Dec -> Bin
 ## Dec -> Bin (/2)
@@ -38,8 +29,8 @@ MISSING
 ### Ga van links naar rechts, doe min (-) waar mogelijk, zet een 1 indien dat het geval is
 bv decimaal nummer 2104
 
-4096 | 2048 1024 512 256 | 128 64 32 16 8 4 2 1
- 0      |    1      0       0    0    |     0   0  1  1 1 0 0 0
+4096 | 2048 1024 512 256 | 128 64 32 16 | 8 4 2 1
+   0    |    1       0      0    0    |   0    0   1   1 | 1 0 0 0
 
 2104-2048 = 56    --> 1 bij de 2048 bit, maar een 0 bij 1024
 56 - 32 = 24
@@ -47,11 +38,12 @@ bv decimaal nummer 2104
 8-8 = 0
 antwoord = (1000 0011 1000)<sub>2</sub>
 
+---
+
 <br><br><br><br><br>
 
-----
-
 # Bin -> Hex
+
 ## Bin -> Hex (tabel)
 
 ### Teken de hex-bin tabel
@@ -69,11 +61,14 @@ Ander voorbeeld:
 
 ![hoofdstuk-9-voorbeeld-bin-hex](img/les-9-voorbeeld-bin-hex.png)
 
-<br><br><br><br><br>
+
 
 ---
 
+<br><br><br><br><br>
+
 # Hex -> Bin
+
 ## Hex -> Bin (tabel)
 
 ### Teken de hex-bin tabel
@@ -86,11 +81,14 @@ Voorbeeld:
 
 ![Image loading or missing!](img/les-9-voorbeeld-hex-bin.png)
 
-<br><br><br><br><br>
+
 
 ---
 
+<br><br><br><br><br>
+
 # Dec -> Hex
+
 ## Dec -> Hex (via binair tabel)
 
 *Note: terug niet methode van leerkracht*
@@ -124,9 +122,11 @@ Repeat dan met het resultaat van de deling van 2 (met de ,5 ommitted indien die 
 
 ![Image loading or missing!](img/les-9-voorbeeld-dec-hex-4.png)
 
-<br><br><br><br><br>
 
-----
+
+---
+
+<br><br><br><br><br>
 
 # Hex -> Dec
 
@@ -138,11 +138,13 @@ MISSING
 
 ![Image loading or missing!](img/les-9-voorbeeld-hex-dec.png)
 
+
+
+---
+
+---
+
 <br><br><br><br><br>
-
----
-
----
 
 # Extra links
 
