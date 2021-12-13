@@ -47,15 +47,7 @@ bv decimaal nummer 2104
 8-8 = 0
 antwoord = (1000 0011 1000)<sub>2</sub>
 
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br>
 
 ----
 
@@ -77,15 +69,7 @@ Ander voorbeeld:
 
 ![hoofdstuk-9-voorbeeld-bin-hex](img/les-9-voorbeeld-bin-hex.png)
 
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br>
 
 ---
 
@@ -102,15 +86,7 @@ Voorbeeld:
 
 ![Image loading or missing!](img/les-9-voorbeeld-hex-bin.png)
 
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br>
 
 ---
 
@@ -121,7 +97,7 @@ Voorbeeld:
 
 Doe eerst [dec->binair](#Dec -> bin (/2)), doe daarna [binair->hex](#Bin -> Hex (tabel)) (werkt vooral voor kleinere getallen (< +/- 2048))
 
-
+<br><br>
 
 
 ## Dec -> Hex (via /16)
@@ -132,7 +108,7 @@ Voorbeelden van leerkracht
 
 ![Image loading or missing!](img/les-9-voorbeeld-dec-hex-2.png)
 
-
+<br><br>
 
 
 ## Dec -> Hex (via BIN, dus /2)
@@ -148,15 +124,7 @@ Repeat dan met het resultaat van de deling van 2 (met de ,5 ommitted indien die 
 
 ![Image loading or missing!](img/les-9-voorbeeld-dec-hex-4.png)
 
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br>
 
 ----
 
@@ -170,15 +138,7 @@ MISSING
 
 ![Image loading or missing!](img/les-9-voorbeeld-hex-dec.png)
 
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br>
 
 ---
 
